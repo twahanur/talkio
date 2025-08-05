@@ -5,7 +5,6 @@
 
 🔗 [Frontend GitHub Repository](https://github.com/twahanur/talkio)
 
-
 ---
 
 ## 🔥 Features
