@@ -1,6 +1,5 @@
 # Talkio 🗨️
 
-
 **Talkio** is a real-time full-featured chat application where users can register, log in, and communicate with others through instant messaging. It supports private 1:1 chats, shows online status, and includes advanced features like media sharing, OAuth login, and a responsive UI optimized for all devices.
 
 🔗 [Frontend GitHub Repository](https://github.com/twahanur/talkio)
